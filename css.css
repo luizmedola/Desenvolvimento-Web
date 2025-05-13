@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    body{
+        background-color: lightcyan;
+        font-size: 12px;
+    }
+}
